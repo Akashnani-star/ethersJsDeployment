@@ -29,13 +29,13 @@ Install yarn
 Clone the project
 
 ```bash
-  git clone https://github.com/Akashnani-star/EthersJs
+  git clone https://github.com/Akashnani-star/ethersJsDeployment
 ```
 
 Go to the project directory
 
 ```bash
-  cd EthersJs
+  cd ethersJsDeployment
 ```
 
 Add environment variables
